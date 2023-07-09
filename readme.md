@@ -1,6 +1,7 @@
 # How to start
 1. Install FreeCad
 2. Install FreeCad A2Plus addon
+3. Use FreeCad open e-bike.FCStd file
 
 # Trobleshooting
 
